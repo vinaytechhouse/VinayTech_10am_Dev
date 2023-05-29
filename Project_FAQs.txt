@@ -1,12 +1,17 @@
-Explain about a project / you want to know about a project
+27th and 28th May:
+Explain about a project / you want to know about a project:
 
-a)Customer, customer business, operations, locations, and major areas etc.
+
+a) Customer, customer business, operations, locations, and major areas etc.
 b) Customer analysis need
 c) End-End project flow
 d) Your application and your role
 e) Responsibilities, challenges, complexities, best practices etc.
 
+Brief:
+
 Inchcape...automative indutry..in uk...it has many branches in Europe, Aus....
+
 They ...wonderful services....for new, used vechicles...of di...small....ANalytical system for their business operations
 
 For their human resource management operations
