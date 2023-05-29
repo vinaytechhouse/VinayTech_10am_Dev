@@ -1,0 +1,240 @@
+Explain about a project / you want to know about a project
+
+a)Customer, customer business, operations, locations, and major areas etc.
+b) Customer analysis need
+c) End-End project flow
+d) Your application and your role
+e) Responsibilities, challenges, complexities, best practices etc.
+
+Inchcape...automative indutry..in uk...it has many branches in Europe, Aus....
+They ...wonderful services....for new, used vechicles...of di...small....ANalytical system for their business operations
+
+For their human resource management operations
+part, fulltime, hourly salaries...
+different agencies...
+ethic groups...
+seperation....volun...invol....abscanding...
+ Human Resource Management
+
+NewHires
+
+Badhires(if a candidate leaving with in 60 days / abs / without informing leaving...)
+
+yearly monthly loca  VP
+
+Actives Vs. Seperations 
+
+
+VP wise information...Score card....female male recruitment  age group recruit..full part....
+===
+As a Technical resource...understanding BRD, HRSD etc. analyzing them...making clarification calls regarging process 
+We prepared technical design...we went for approval from the senior technical team and customer...
+after that we started preparing report...we prepared and tested before we deliver to the respective team.
+as part od testing we used SQL Queries at source and DAX queries at Cube because PBI dataset has SQL objects and Cube Objects...and validated against PBI report.
+
+Many challenges...
+a) A formula written in complex way with multiple lines...
+b) Visual display challenge...identifying proper visual (waterfall / pie or other)
+
+We placed in git*(both report and test doc )...and informed my technical head and customer
+project followed agile method..scrum approach.
+
+Input is SQL SERVER AND CUBES...OUTPUT IS DASHBOARD IN THE FORM OF APPSPACE TO THE CUSTOMERS.
+
+How many reports you have in your sprint?
+
+
+
+How many people in your project and how did you cumulate your work?
+
+
+
+Which defect tracking tool you used?
+
+
+
+Rough idea about environment?
+
+
+
+Complex situations?
+
+
+
+
+Custrom charts?
+
+MS Store...custom visuals area...look at a few charts...identify which you feel impressive to explain and explain.
+HistoGram, GantChart, MultiKPI chart, Bullet Chart, Multi Axis Chart etc.
+
+What is the size of the data you have used in your project?
+
+You make it simple:
+
+		I am working with import mode of data and the size is 2 GB / 3 GB etc.
+
+
+You make it crazy:
+
+		My PBI report is "direct query" report and my database is "Oracle / SQL Server", the table having more than
+                                   "100 GB data". 
+
+What is the size of your input file?
+		To showcase:
+
+		No, we don't have files as input in our project, we have databases and cubes and we use direct query or
+		live connection as part of our operations.
+
+		Normal answer:
+
+		Yes, we have files of 100 MB- 3 GB size.
+
+Have you involved in Migration of Reports?
+	
+		To showcase:
+
+		If you have knowledge on multiple tools, then confidently answer "Yes" to showcase.
+
+		Ex: SSRS, Tableau, Qlikview, SAP-BO, Cognos Analytics etc.
+
+		Note: If you already worked on, you can answer confidently
+
+
+		Simple:
+		NO, I never involved, but I have a little knowledge in Migration.
+
+Support project responsibilities?
+
+
+
+If you work with Direct query how to create measure based on datetime?
+
+How you day starts as a Power BI Developer?
+		Simple way: 
+			starts with daily scrum call 
+			
+		More eloborated:
+			Not daily...but when a sprint starts we get respective docs (business and functional) and
+				work on those to prepare techincal docs and reports. As part of progress we 
+				participate in different ceremonies (meetings) in the project based on the project 
+				nature.
+		
+
+1.which unit testing tool did you use as a developer 2. and a p1 situation you have handled
+
+
+How many records you handled in a project?
+
+	My journey has different reports and diffent volumes of data and number of recordings also accordingly.
+	
+	My just before this current project I worked on excel where the fact table having 10 lakh records.
+	We have millions of records in the current project since we are using Direct query mode.
+
+What type of ceremonies / meetings?
+	Kick-off meeting, daily scrum, sprint review, sprint retrospective etc.
+
+
+Time to build a report?
+SImple report / medium / complex report: Less days [based on data volume, number of records, number of visuals etc.]
+
+Trainer complex report time?
+	To showcase:
+	My lastly created report is a multi page dashboad which was shared using Appspce and it took around 3 months to 		complete.
+
+	Normal:
+	My last report took 3 months time and other reports one week to two weeks only,
+
+
+***NUMBER OF RECORDS, NUMBER OF VISUALS, DATA SIZE, REPORT CONCEPTS ETC.  MEASURED FOR DURATION OF THE REPORT ***
+
+	
+Why we need to create multiple pages for Power BI Report?
+
+In case you are implementing a specific subject area report and customer want to see all in a single area, need
+navigations between them and also the amount of time report taking is less then we prefer.
+
+Have you ever come across unstructured?
+	Simple:
+		No, my I worked with business organizations and their data is structured, having files and databases as their 		storage.
+	Showcase:
+		Yes, we had unstructured data, that data in Azure cloud, using multiple Azure tools data filtered and 		provided in Datalake, blob and other storages. Finally we used in our reporting by connecting them.
+
+Can I get PDF data?
+	No, I never got, but I know how to handle it if we get PDF data.
+
+
+
+1. Sir, will there be any scenario based questions in Power BI?
+	Yes, they will ask
+	a)  What ever they seen recently in their project / they were unable to address the challenge
+	b) Some generic situations where everyone should aware
+	c)  If many people in interview.. to test your analytical skills...
+
+	We will see those in our classes. I will share all the scenrios...
+2. If suppose I am working for US team, scheduled reports run in our time and I have monitor it. What are generic report failures we get and how to handle it?
+	Show you support issues now.
+	P1:
+		1. Service starting issues[SSAS Cube, GAteway etc.]
+		2. Data values appearing wrongly from the source system after incremental load
+		3. Visual resize overlapping other visuals and report looking ambigous
+		4. Report taking longer time than usual time
+		etc.
+		As a support resource I used to see the log, address the issue, and implement at UAT-Pre-prod, after
+		approvals moving to production area.
+
+What are the recent updates in Power BI? and have you implemented any of those features in your project?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
